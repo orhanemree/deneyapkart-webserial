@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    user-select: none;
+}
+
+body{
+    background-color: #222;
+    width: 100vw;
+    height: 100vh;
+    overflow: hidden;
+}
+
+nav{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+button{
+    padding: 6px 12px;
+    outline: none;
+    border: 1px solid #000;
+    border-radius: 2px;
+    background-color: #eee;
+    cursor: pointer;
+    font-size: 14px;
+}
+
+#container{
+    position: relative;
+    width: 100vw;
+    height: 100vh;
+    padding: 20px;
+}
+
+#draggable{
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    border: .5px solid #333;
+    background-color: #000;
+    left: 50vw;
+    top: 50vh;
+}
+
+#info{
+    color: #eee;
+    font-size: 18px;
+}
