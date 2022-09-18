@@ -1,6 +1,8 @@
 # 📯 Deneyap Kart Web Serial
 Deneyap Kart'tan alınan verilerin Web Serial API ile client side JavaScript'e gönderilmesi örnek proje.
 
+https://user-images.githubusercontent.com/85290165/190926835-60c269b9-ec58-45cc-bcfe-a17c235129dc.mp4
+
 ## Hızlı Başlangıç
 * Repo'yu klonlayın.
 ```
