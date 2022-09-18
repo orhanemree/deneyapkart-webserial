@@ -13,7 +13,7 @@ $ cd deneyapkart-webserial
 * `index.html` dosyasını tarayıcınızda açın.
 ```
 # python kullananlar için
-python -m http.server 8080
+$ python -m http.server 8080
 ```
 * Joystick butonuna basılı tutarak sağa-sola yukarı-aşağı yaptığınız her hareket sayfadaki kutuyu da hareket ettirecektir. 
 
